@@ -1,0 +1,9 @@
+{
+  "name": "barbearia-marques-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API de agendamento da Barbearia Marques (sem dependencias)",
+  "main": "server.js",
+  "scripts": { "start": "node --no-warnings server.js" },
+  "engines": { "node": ">=22.5.0" }
+}
